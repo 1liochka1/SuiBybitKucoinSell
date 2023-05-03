@@ -5,7 +5,7 @@ async-timeout==4.0.2
 asyncio==3.4.3
 attrs==23.1.0
 ccxt==3.0.49
-loguru==0.5.3
+
 certifi==2022.12.7
 cffi==1.15.1
 charset-normalizer==3.1.0
